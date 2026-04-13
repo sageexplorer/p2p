@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "p2p-api": {
+      "command": "/FastAPI/.venv/bin/python",
+      "args": ["-m", "mcp_server.server"],
+      "cwd": "/FastAPI"
+    }
+  }
+}
